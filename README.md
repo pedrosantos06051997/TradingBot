@@ -37,11 +37,11 @@ This trading bot is designed to execute a high volume of trades at ultra-fast sp
 
 ## 🎯 Team Roles
 
-- **Pedro**: Lead Developer & Strategy Design  
-  Responsible for coding the core trading strategy and ensuring the integration of AI models with high-frequency trading logic.
-  
-- **Alex**: Strategy Developer  
-  Works alongside Pedro to develop and refine the trading algorithms that the bot will use to execute high-frequency trades.
+- **Pedro & Alex**: Strategy Coding  
+  Responsible for developing the core trading strategy. This involves writing the algorithms that define the bot's trading logic and integrating AI-driven components to optimize performance.
 
-- **Leandro, Sven, Kay, Ben**: Market Research & Analysis  
-  This team is focused on conducting in-depth market research and analysis to support the bot's decision-making algorithms. They will provide insights into market trends, asset performance, and strategy validation.
+- **Bruno & Kay**: Optimization Specialists  
+  Focus on optimizing the trading algorithms for efficiency, speed, and profitability. They will work on fine-tuning AI models and improving execution performance in the high-frequency trading environment.
+
+- **Leandro, Sven, Kay, Bruno, Pedro**: Strategy Development  
+  This group collaborates on developing, refining, and validating the overall trading strategy. They will conduct market analysis, backtesting, and strategic adjustments to ensure the bot's success in varying market conditions.
