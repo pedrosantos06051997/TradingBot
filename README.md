@@ -1,5 +1,5 @@
 ## TradingBot
-# AI-Powered High-Frequency Trading Bot
+# BI-Powered High-Frequency Trading Bot
 
 Welcome to the **AI-Powered High-Frequency Trading (HFT) Bot** repository! This project combines high-frequency trading techniques with **Artificial Intelligence (AI) integration** to optimize trading parameters in real-time, helping to achieve better performance in fast-paced financial markets.
 
